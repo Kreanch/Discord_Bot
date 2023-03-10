@@ -10,15 +10,8 @@ And Nextcord [API](https://docs.nextcord.dev/en/stable/api.html).
 
 # Command to install nextcort
 
-For Linux/macOS
+For Linux/macOS: `python3 -m pip install -U nextcord`
 
-`python3 -m pip install -U nextcord`
+For Windows: `py -3 -m pip install -U nextcord`
 
-
-For Windows 
-
-`py -3 -m pip install -U nextcord`
-
-Or
-
-`py -m pip install -r requirements.txt`
+Or: `py -m pip install -r requirements.txt`
