@@ -6,6 +6,7 @@ This is my discord server [Kreanch CLUB](https://discord.gg/JxhjNjtAKK).
 
 # Nextcord
 Nextcord repository on [github](https://github.com/nextcord/nextcord).
+
 And Nextcord [API](https://docs.nextcord.dev/en/stable/api.html).
 
 # Command to install nextcort
